@@ -75,7 +75,7 @@ For testing the functionality, you can run `./demo-test.sh`
 
 1. **Clone and Setup**
    ```bash
-   git clone https://github.com/mylibrari/vanity-phone-converter.git
+   git clone https://github.com/logiccon/vanity-call-assistant
    cd vanity-phone-converter
    chmod +x setup.sh
    ./setup.sh
